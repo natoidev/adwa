@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="[https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif](https://te.legra.ph/file/2cde57ef554eef593c512.jpg)">
+  <img src="https://te.legra.ph/file/2cde57ef554eef593c512.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝗔𝗗𝗪𝗔](https://t.me/adwaro_bot)**_
